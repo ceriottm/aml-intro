@@ -1,0 +1,11 @@
+scipy
+matplotlib
+chemiscope
+scikit-learn
+ase
+tqdm
+git+https://github.com/osscar-org/scicode-widgets.git@examples
+metatensor
+--extra-index-url https://luthaf.fr/nightly-wheels/
+rascaline
+
