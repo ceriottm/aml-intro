@@ -11,3 +11,4 @@ sphericart
 rascaline
 sphericart
 spherical
+scipy
