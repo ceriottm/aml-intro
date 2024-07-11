@@ -10,3 +10,4 @@ sphericart
 --extra-index-url https://luthaf.fr/nightly-wheels/
 rascaline
 sphericart
+spherical
