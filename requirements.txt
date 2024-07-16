@@ -4,7 +4,7 @@ chemiscope
 scikit-learn
 ase
 tqdm
-git+https://github.com/osscar-org/scicode-widgets.git@examples
+git+https://github.com/osscar-org/scicode-widgets.git@dev/aml-intro
 metatensor
 sphericart
 --extra-index-url https://luthaf.fr/nightly-wheels/
