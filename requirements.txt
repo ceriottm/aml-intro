@@ -2,11 +2,10 @@ scipy
 matplotlib
 chemiscope
 scikit-learn
-ase
+ase==3.22.1
 tqdm
 git+https://github.com/osscar-org/scicode-widgets.git@dev/aml-intro
 metatensor
-sphericart
 --extra-index-url https://luthaf.fr/nightly-wheels/
 rascaline
 sphericart
