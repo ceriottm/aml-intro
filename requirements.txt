@@ -4,10 +4,11 @@ chemiscope
 scikit-learn
 ase==3.22.1
 tqdm
-git+https://github.com/osscar-org/scicode-widgets.git@dev/aml-intro
+scicode-widgets
 metatensor
---extra-index-url https://luthaf.fr/nightly-wheels/
-rascaline
+featomic
 sphericart
 spherical
 scipy
+jupyterlab_hide_code
+markdown
