@@ -4,7 +4,7 @@ chemiscope
 scikit-learn
 ase==3.22.1
 tqdm
-scicode-widgets
+scwidgets
 metatensor
 featomic
 sphericart
