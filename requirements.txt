@@ -6,8 +6,9 @@ ase==3.22.1
 tqdm
 scwidgets
 metatensor
---extra-index-url https://luthaf.fr/nightly-wheels/
-rascaline
+featomic
 sphericart
 spherical
 scipy
+jupyterlab_hide_code
+markdown
