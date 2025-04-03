@@ -1,0 +1,25 @@
+name: Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    # Check all PR
+
+jobs:
+  tests:
+    runs-on: ubuntu-22.04  # same as binder
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+
+    - name: Install dependencies
+    - run: pip install -r requirements.txt pytest nbmake
+
+    - name: Run tests
+      run: pytest --nbmake **/*ipynb
