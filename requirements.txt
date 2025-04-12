@@ -1,5 +1,6 @@
 scipy
 matplotlib
+ipympl
 chemiscope
 scikit-learn
 ase
